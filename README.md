@@ -41,7 +41,7 @@
 
   <br />
 
-<h3>🚀 Projects & Achievements</h3>
+<h3>🚀 Projects</h3>
 <p>
   Here are some of the exciting projects I’ve worked on:
 </p>
