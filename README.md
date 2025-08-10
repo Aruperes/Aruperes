@@ -43,15 +43,26 @@
 
 <h3>🚀 Projects</h3>
 <p>
-  Here are some of the exciting projects I’ve worked on:
+  A selection of impactful projects showcasing expertise in AI, full-stack development, and mobile applications:
 </p>
 <ul>
- <li><strong>Spend.ly:</strong> A money tracker built with Next.js, Express.js, and MongoDB to help users manage their finances.</li>
-  <li><strong>Stunting Risk Calculator:</strong> A mobile app developed using React Native with LLM to calculate and analyze stunting risks in babies using AI.</li>
-  <li><strong>Brain Tumor Classification:</strong> A project using EfficientNet for brain tumor classification with AI-based transfer learning.</li>
-  <li><strong>BudayaNa:</strong> A mobile app focused on educating users about the tourism and cultural heritage of North Minahasa, Indonesia.</li>
-  <li><strong>VillageDean:</strong> An application that helps in processing student data at Universitas Klabat.</li>
+  <li>
+    <strong>Brain Tumor Classification:</strong> Deep learning project using <em>EfficientNet</em>, <em>DenseNet</em>, <em>VGG</em>, and <em>ResNet</em> with Grad-CAM visualization and LLM-driven result interpretation, achieving high-accuracy tumor detection.
+  </li>
+  <li>
+    <strong>Spend.ly:</strong> Full-stack finance tracker built with <em>Next.js</em>, <em>Express.js</em>, and <em>MongoDB</em>, featuring analytics dashboard and expense categorization for smarter financial decisions.
+  </li>
+  <li>
+    <strong>Stunting Risk Calculator:</strong> AI-powered React Native app with <em>LLM</em> integration to assess and explain stunting risks in infants, providing early health insights for caregivers.
+  </li>
+  <li>
+    <strong>BudayaNa:</strong> Educational mobile app promoting North Minahasa’s tourism and cultural heritage, with interactive media, location-based content, and gamified learning.
+  </li>
+  <li>
+    <strong>VillageDean:</strong> University data management system for student administration at Universitas Klabat, optimizing workflows with automated processing and reporting.
+  </li>
 </ul>
+
 
 
   <br />
